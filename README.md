@@ -5,7 +5,7 @@
 All code used the [Python](https://www.python.org/downloads/) language on a virtual machine in [Google Colab](https://colab.research.google.com/) 
 
 **Packages Used:**
-* Analysis: [ARIMA Model]([https://pypi.org/project/vaderSentiment/](https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/)), [Mean Square Error](https://scikit-learn.org/1.5/modules/generated/sklearn.metrics.mean_squared_error.html), [Exponential Smoothing](https://www.statsmodels.org/dev/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html) 
+* Analysis: [SARIMA Model](https://www.geeksforgeeks.org/sarima-seasonal-autoregressive-integrated-moving-average/), [Mean Square Error](https://scikit-learn.org/1.5/modules/generated/sklearn.metrics.mean_squared_error.html), [Exponential Smoothing](https://www.statsmodels.org/dev/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html) 
 * EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [matplotlib](https://pypi.org/project/matplotlib/), and [seaborn](https://pypi.org/project/seaborn/) 
 * These links are provided for python package documentations  
   
