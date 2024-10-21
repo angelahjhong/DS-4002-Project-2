@@ -24,6 +24,8 @@ Our data was pulled from [Freddie Mac](https://www.freddiemac.com/pmms) in the f
 
 ## References
 [1] Freddie Mac. “Mortgage Rates Tick Up.” Freddie Mac. https://www.freddiemac.com/pmms (accessed October 7, 2024). 
+
 [2] S. Shawl. “Python | ARIMA Model for Time Series Forecasting.” GeekforGeeks. https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/ (accessed October 7, 2024). 
+
 [3] T. Mutha. “Time Series forecasting using SARIMA in Python”. Medium. https://medium.com/@tirthamutha/time-series-forecasting-using-sarima-in-python-8b75cd3366f2 (accessed October 21, 2024)
   
